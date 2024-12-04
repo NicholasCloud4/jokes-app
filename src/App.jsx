@@ -27,7 +27,7 @@ export default function App() {
       <Joke setup={"Why can't you trust the king of the jungle?"} punchline={"Because he's always lion."} />
       <Joke setup={"What do sea monsters eat?"} punchline={"Fish and ships."} />
       <Joke setup={"How did the telephone propose to his girlfriend?"} punchline={"He gave her a ring."} />
-
+      <Joke punchline={"I was wondering why the frisbee kept getting bigger and bigger, but then it hit me."} />
 
     </>
   )
